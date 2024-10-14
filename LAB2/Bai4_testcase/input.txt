@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nguy\u1EC5n Ho\u00E0ng L\u1ED9c",
+    "ID": 1,
+    "Phone": "0818400811",
+    "Score1": 7,
+    "Score2": 7,
+    "Score3": 7,
+    "AverageScore": 7
+  }
+]

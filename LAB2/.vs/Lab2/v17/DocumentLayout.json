@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|d:\\nt106\\thuchanh\\lab2\\lab_nt106\\lab2\\lab2_1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|solutionrelative:lab2_1\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\lab2_1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|solutionrelative:lab2_1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\lab2_1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|solutionrelative:lab2_1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\lab2_1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{760AC64F-A538-4C50-8A7E-2F303D9E8F1A}|Lab2_1\\Lab2.csproj|solutionrelative:lab2_1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai3.cs",
+              "RelativeDocumentMoniker": "Lab2_1\\Bai3.cs",
+              "ToolTip": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai3.cs",
+              "RelativeToolTip": "Lab2_1\\Bai3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:43:19.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai2.cs",
+              "RelativeDocumentMoniker": "Lab2_1\\Bai2.cs",
+              "ToolTip": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai2.cs",
+              "RelativeToolTip": "Lab2_1\\Bai2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:26:35.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab2_1\\Bai1.cs",
+              "ToolTip": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai1.cs",
+              "RelativeToolTip": "Lab2_1\\Bai1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:43:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\ThucHanh\\LAB2\\LAB_NT106\\LAB2\\Lab2_1\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab2_1\\Bai1.cs",
+              "ToolTip": "D:\\NT106\\ThucHanh\\LAB2\\Lab2_NT106\\Lab2_1\\Bai1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab2_NT106\\Lab2_1\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:43:05.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
